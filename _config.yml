@@ -47,17 +47,17 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+      #google_site_verification: google_meta_tag_verification # change to your verification string
 
 # ↑ --------------------------
 
 
-google_analytics:
-  id: ''              # fill in your Google Analytics ID
+      #google_analytics:
+      #  id: ''              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+  #  pv:
+  #    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+  #    cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -77,10 +77,10 @@ theme_mode:   dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+#img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/comon/images/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
