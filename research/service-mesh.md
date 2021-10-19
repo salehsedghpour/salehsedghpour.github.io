@@ -7,6 +7,9 @@ dataTable: true
 
 ---
 <h1>Service Mesh</h1>
+
+This page is updating with the help of [Aleksandra Obeso Duque](https://github.com/alekodu). 
+We also welcome any PR for this list. 
 <script>
 $(document).ready(function() {
     $('#table').DataTable( {
