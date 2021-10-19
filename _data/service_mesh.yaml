@@ -1,0 +1,14 @@
+- title: Service Mesh Circuit Breaker From Panic Button to Performance Management Tool
+  authors: Mohammad Reza Saleh Sedghpour, Cristian Klein, Johan Tordsson
+  year: 2021
+  publisher: 1st Workshop on High Availability and Observability of Cloud Systems
+  tags: circuit breaking,  1 tier service, control theory, traffic management
+  link: https://dl.acm.org/doi/abs/10.1145/3447851.3458740
+
+- title: Attribute-Based Access Control in Service Mesh
+  authors: Kirill Yu. Ponomarev 
+  year: 2019
+  publisher: 2019 Dynamics of Systems, Mechanisms and Machines (Dynamics)
+  tags: security, access control
+  link: https://ieeexplore.ieee.org/abstract/document/8944652
+
