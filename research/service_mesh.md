@@ -1,7 +1,7 @@
 ---
 title: Service Mesh
 layout: page
-permalink: research/service-mesh
+permalink: /research/service-mesh
 dataTable: true
 
 
